@@ -1,0 +1,11 @@
+package $9_Automated_Testing_TDD.ThucHanh.UngDungMayTinhDonGian;
+
+public class SimpleCalculator {
+    public static int add(int first, int second){
+        return first + second;
+    }
+
+    public static int sub(int first, int second){
+        return first - second;
+    }
+}
